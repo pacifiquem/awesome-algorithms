@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	int i;
-	for(i=0; i > i-1; i++) {
+	for(i=0; i > i-1; i++) { // for(; ; ;) will return infinite loop
 		cout << "I is : " << i <<endl;
 	}
 	
