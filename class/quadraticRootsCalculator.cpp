@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	
-	int a, b, c, delta;
+	int a, b, c, delta, x1, x2;
 	
 	cout << "Enter a : ";
 	cin >> a;
@@ -15,12 +15,9 @@ int main() {
 	cout << "Enter c : ";
 	cin >> c;
 	
-	delta = 4*a*c;
-	int poweredB = pow(b, 2);
-	b = -b;
-	
-	int x1 = b + sqrt(poweredB - delta);
-	int x2 = b - sqrt(poweredB - delta);
+	delta = pow(b, 2) - (4*a*c);	
+	x1 = (-b + sqrt(delta)) / 2*a;
+	x2 = (-b - sqrt(delta)) / 2*a;	
 	
 	
 	cout << "X1 is :" << x1 <<endl;
