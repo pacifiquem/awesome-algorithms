@@ -3,7 +3,7 @@
 using namespace std;
 
 void deleteAt(int numberArray[], int index) {
-	
+	cout << sizeof(numberArray) <<endl;
 	for(int i=0; i<sizeof(numberArray); i++) {
 		if( i >= index) {
 			numberArray[i] = numberArray[i+1];
@@ -17,7 +17,7 @@ void deleteAt(int numberArray[], int index) {
 int main() {
 	
 	int array[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-	deleteAt(array, 7);
+	deleteAt(array, 8);
 	
 	return 0;
 }
