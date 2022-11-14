@@ -14,11 +14,9 @@ int main() {
 	strcpy(numChars, numString.c_str());
 	char * numArr = strtok(numChars, "");
 	
-//	int size = sizeof(numArr) / sizeof(char);
-	
 	char * reversedNum = strrev(numArr);
 	
-	cout << reversedNum;
+	cout << "Reversed Number is : " << reversedNum;
 	
 	return 0;
 }
