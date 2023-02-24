@@ -1,0 +1,6 @@
+600,Kevin,40,50
+500,Banjo,50,43
+340,Kadete,50,23
+200,Pacifique,45,43
+500,Kevin,50,50
+321,Lina,50,30
