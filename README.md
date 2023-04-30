@@ -10,7 +10,7 @@ Repository for Data Structures & Algorithms.
 
     int main() {
 
-        cout << "Contributions and Reporting Issues are all allowed and welcomed"<<endl << "Also drop a star to this repo and share it";
+        cout << "Don't forget to star and share it"<<endl;
 
         return 0;
     }
