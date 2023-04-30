@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     
-    cout << "Hello World !!" << "Refer to /src to get all algorithms" <<endl;
+    cout << "Welcome !" << "You can find all algoritms you want here." <<endl;
 
     return 0;
 
