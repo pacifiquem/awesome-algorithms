@@ -4,15 +4,15 @@ Repository for Data Structures & Algorithms.
 
 ```cpp
 
-    #include <bits/stdc++.h>
+#include <bits/stdc++.h>
 
-    using namespace std;
+using namespace std;
 
-    int main() {
+int main() {
 
-        cout << "Don't forget to star and share it"<<endl;
+    cout << "Don't forget to star and share it"<<endl;
 
-        return 0;
-    }
+    return 0;
+}
 
 ```
