@@ -16,8 +16,7 @@ void recursiveInsertionSort(vector<int>& arr, int n) {
     int j = n - 2;
      
     // Shift elements to the right to make space for the nth element
-    while (j >= 0 && arr[j] > last)
-    {
+    while (j >= 0 && arr[j] > last) {
         arr[j + 1] = arr[j];
         j--;
     }
@@ -27,8 +26,7 @@ void recursiveInsertionSort(vector<int>& arr, int n) {
 }
  
 void printArray(vector<int>& arr, int n) {
-    for (int i = 0; i < n; i++)
-    {
+    for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
     cout << endl;
