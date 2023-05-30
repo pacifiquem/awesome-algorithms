@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# locals
+
+/src/local
+*.local
