@@ -3,6 +3,7 @@
 We welcome contributions to our repository of data structures and algorithms! Your contributions can help fellow developers learn more about different algorithms and data structures, and improve their coding skills.
 
 ## Getting Started
+
 To contribute, follow these steps:
 
 - Fork the repository
@@ -15,6 +16,7 @@ To contribute, follow these steps:
 - Create a pull request
 
 ## What to Contribute
+
 We welcome contributions of different types, including:
 
 - New data structures or algorithms
@@ -25,6 +27,7 @@ We welcome contributions of different types, including:
 Before starting to work on a contribution, please check the existing issues and pull requests to avoid duplicating work that is already being done.
 
 ## Coding Guidelines
+
 To ensure consistency across the repository, we have the following coding guidelines:
 
 - Use clear and descriptive variable and function names
@@ -33,6 +36,7 @@ To ensure consistency across the repository, we have the following coding guidel
 - Write unit tests to validate your code
 
 ## Pull Request Guidelines
+
 When creating a pull request, please:
 
 - Provide a clear and concise description of your changes

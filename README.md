@@ -1,4 +1,5 @@
-### The Algorithms
+The Algorithms
+==============
 
 Repository for Data Structures & Algorithms.
 
