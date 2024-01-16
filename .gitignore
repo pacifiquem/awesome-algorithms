@@ -35,3 +35,7 @@
 
 /src/local
 *.local
+
+# VS Code
+
+/.vscode
