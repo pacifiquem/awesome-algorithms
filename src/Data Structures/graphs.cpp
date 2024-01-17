@@ -25,14 +25,14 @@ public:
     }
 
     // Function to add an edge to the graph
-    void add_edge(int origin, int destin)
+    void add_edge(int origin, int destination)
     {
-        if (origin > n || destin > n || origin <= 0 || destin <= 0)
+        if (origin > n || destination > n || origin <= 0 || destination <= 0)
         {
             cout << "Invalid edge!\n";
             return;
         }
-        adj[origin - 1][destin - 1] = 1;
+        adj[origin - 1][destination - 1] = 1;
     }
 
     // Function to delete an edge from the graph
@@ -62,7 +62,7 @@ public:
 
 int main()
 {
-    int nodes, max_edges, origin, destin;
+    int nodes, max_edges, origin, destination;
     cout << "Enter the number of nodes: ";
     cin >> nodes;
 
@@ -78,14 +78,14 @@ int main()
         cout << "Edge number: " << i + 1 << endl;
         cout << "Enter an edge (-1 -1 to exit): " << endl;
         cout << "Enter the origin and destination vertices: ";
-        cin >> origin >> destin;
-        
+        cin >> origin >> destination;
+
         // Check if the user wants to exit
-        if (origin == -1 || destin == -1)
+        if (origin == -1 || destination == -1)
             break;
 
         // Add the edge to the adjacency matrix
-        am.add_edge(origin, destin);
+        am.add_edge(origin, destination);
     }
 
     // Display the final adjacency matrix
