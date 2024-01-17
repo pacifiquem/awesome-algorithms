@@ -19,7 +19,7 @@ long long fibonacci(int n) {
 int main() {
     int n;
 
-    std::cout << "Enter nth fibonnaci number: " <<endl;
+    std::cout << "Enter nth Fibonacci number: " <<std::endl;
     std:: cin >> n;
     dp.assign(n + 1, -1);
     long long result = fibonacci(n);
