@@ -15,6 +15,8 @@ To contribute, follow these steps:
 - Push your changes to your fork
 - Create a pull request
 
+> **Note**: Make sure to update the README.md as necessary.
+
 ## What to Contribute
 
 We welcome contributions of different types, including:
