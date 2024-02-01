@@ -52,5 +52,8 @@ Content
   - [Merge Sort](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/sorting/merge.cpp)
   - [Quick Sort](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/sorting/quick.cpp)
   - [Selection Sort](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/sorting/selection.cpp)
+- [Recursion](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion)
+  - [Reversing a string](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/Reversing%20a%20String.cpp)
+  - [Factorial](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/factorial.cpp)
 - [Others](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/others)
   - [Levenshtein Distance](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/others/Levenshtein_distance.cpp)
