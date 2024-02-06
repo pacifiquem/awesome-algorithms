@@ -55,5 +55,6 @@ Content
 - [Recursion](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion)
   - [Reversing a string](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/Reversing%20a%20String.cpp)
   - [Factorial](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/factorial.cpp)
+  - [Fibonnaci](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/fibonnaci.cpp)
 - [Others](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/others)
   - [Levenshtein Distance](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/others/Levenshtein_distance.cpp)
