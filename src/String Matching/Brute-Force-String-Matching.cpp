@@ -4,6 +4,8 @@
 using namespace std;
 
 
+
+
 int findFirst(string pattern, string text){
     int m = pattern.length(); 
     int n = text.length();
