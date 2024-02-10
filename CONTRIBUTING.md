@@ -12,6 +12,7 @@ To contribute, follow these steps:
 - Make your changes
 - Test your changes to make sure they work as expected
 - Commit your changes
+- ```Update Readme.md accordingly```
 - Push your changes to your fork
 - Create a pull request
 
