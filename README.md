@@ -56,6 +56,7 @@ Content
   - [Reversing a string](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/Reversing%20a%20String.cpp)
   - [Factorial](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/factorial.cpp)
   - [Fibonnaci](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/fibonnaci.cpp)
+  - [Greatest Common Divisor](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/recursion/Greatest%20Common%20Divisor.cpp)
 - [String Matching](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/String%20Matching)
   - [Brute force string matching](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/String%20Matching/Brute-Force-String-Matching.cpp) 
 - [Others](https://github.com/pacifiquem/awesome-algorithms/blob/main/src/others)
